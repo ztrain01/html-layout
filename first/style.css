@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	background-color: #EFEFEF;
+}
+.box {
+	height: 200px;
+	width: 100%;
+	background-color: #444444;
+
+}
+
+.white {
+	height: 1000px;
+	width: 140px;
+	background-color: #D8D8D8;
+	float: left;
+}
+
+.white1 {
+	height: 1000px;
+	width: 140px;
+	background-color: #D8D8D8;
+	float: right;
+}
+
+.boxBottom {
+	height: 100px;
+	width:100%;
+	background-color: #222222;
+	margin-top: 900px;
+}
